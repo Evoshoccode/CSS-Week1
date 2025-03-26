@@ -1,0 +1,46 @@
+body{
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 110%;
+    
+}
+
+header{
+    background-color: #dedede5f ;
+    display: inline;
+    
+}
+nav{
+    background-color: rgba(66, 131, 228, 0.911);
+    
+}
+
+main{
+    background-color: yellow;
+    font-size: 120%;
+}
+footer{
+    background-color: rgba(128, 128, 128, 0.699);
+}
+li{
+    display: inline;
+    margin: 20px;
+    font-size: 120%;
+    width: 20px;
+    text-decoration: underline;
+    font-family: sans-serif,'Times New Roman', Times;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(50, 50, 230);
+    background-color: antiquewhite;
+
+}
+p{
+    margin: 25px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
